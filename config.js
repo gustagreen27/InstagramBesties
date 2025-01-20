@@ -25,7 +25,7 @@ export const config = {
    * Your Instagram credentials
    */
   credentials: {
-    username: "",
-    password: "",
+    username: "gustavotolentinoo",
+    password: "An@polis01",
   },
 };
